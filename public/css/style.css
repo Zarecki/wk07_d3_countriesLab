@@ -1,0 +1,17 @@
+img {
+  border: solid black 1px;
+  max-width: 30%;
+  max-height: 20%;
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  background-color: #E0DCE6;
+}
+
+#country {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
